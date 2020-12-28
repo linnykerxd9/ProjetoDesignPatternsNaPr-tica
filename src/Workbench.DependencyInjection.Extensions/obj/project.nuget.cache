@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+t8I4sbq2HkiGcnPHOuul2/BAXROUT+C/cEy6bZ/7Tg4XZiOXVjIpUCFvaV/x8ox5okX/bPYBp7bxqs4yJSZUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Viviane\\Desktop\\DesignPatternSamples-main\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viviane\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
